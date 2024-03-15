@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_RF/mlruns/889265104065369660/8cb5cdbf430e4a19ac001791c0c5a224/artifacts
+deleted_time: 1710506683223
 end_time: 1710477611408
 entry_point_name: ''
 experiment_id: '889265104065369660'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8cb5cdbf430e4a19ac001791c0c5a224
 run_name: mercurial-cow-210
 run_uuid: 8cb5cdbf430e4a19ac001791c0c5a224

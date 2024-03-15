@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_RF/mlruns/432703484457717237/6b4dec5c19144aabaebc5224ce2cf404/artifacts
+deleted_time: 1710506706127
 end_time: 1710477136172
 entry_point_name: ''
 experiment_id: '432703484457717237'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6b4dec5c19144aabaebc5224ce2cf404
 run_name: receptive-fish-970
 run_uuid: 6b4dec5c19144aabaebc5224ce2cf404
