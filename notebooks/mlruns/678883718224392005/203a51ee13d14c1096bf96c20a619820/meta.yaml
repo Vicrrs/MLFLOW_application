@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebooks/mlruns/678883718224392005/203a51ee13d14c1096bf96c20a619820/artifacts
+deleted_time: 1710475527077
+end_time: 1710475149567
+entry_point_name: ''
+experiment_id: '678883718224392005'
+lifecycle_stage: deleted
+run_id: 203a51ee13d14c1096bf96c20a619820
+run_name: delightful-colt-417
+run_uuid: 203a51ee13d14c1096bf96c20a619820
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710475149470
+status: 4
+tags: []
+user_id: rozas

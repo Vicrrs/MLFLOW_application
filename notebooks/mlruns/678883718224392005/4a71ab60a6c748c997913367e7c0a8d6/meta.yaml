@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebooks/mlruns/678883718224392005/4a71ab60a6c748c997913367e7c0a8d6/artifacts
+deleted_time: 1710475527071
+end_time: 1710475237215
+entry_point_name: ''
+experiment_id: '678883718224392005'
+lifecycle_stage: deleted
+run_id: 4a71ab60a6c748c997913367e7c0a8d6
+run_name: magnificent-frog-152
+run_uuid: 4a71ab60a6c748c997913367e7c0a8d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710475237107
+status: 4
+tags: []
+user_id: rozas

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebooks/mlruns/678883718224392005/d553d68b2e314201a2063342409e3784/artifacts
+deleted_time: 1710475527066
+end_time: 1710475249090
+entry_point_name: ''
+experiment_id: '678883718224392005'
+lifecycle_stage: deleted
+run_id: d553d68b2e314201a2063342409e3784
+run_name: redolent-owl-833
+run_uuid: d553d68b2e314201a2063342409e3784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710475249006
+status: 4
+tags: []
+user_id: rozas

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebooks/mlruns/678883718224392005/19fabd931026414cbdd206f72ee38100/artifacts
+deleted_time: 1710475527060
+end_time: 1710475418565
+entry_point_name: ''
+experiment_id: '678883718224392005'
+lifecycle_stage: deleted
+run_id: 19fabd931026414cbdd206f72ee38100
+run_name: caring-steed-161
+run_uuid: 19fabd931026414cbdd206f72ee38100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710475418483
+status: 4
+tags: []
+user_id: rozas

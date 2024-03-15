@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebooks/mlruns/678883718224392005/afdaea5af5384c71b568046497d0c8ab/artifacts
+deleted_time: 1710474290443
+end_time: 1710466989408
+entry_point_name: ''
+experiment_id: '678883718224392005'
+lifecycle_stage: deleted
+run_id: afdaea5af5384c71b568046497d0c8ab
+run_name: brawny-shark-523
+run_uuid: afdaea5af5384c71b568046497d0c8ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710466989363
+status: 3
+tags: []
+user_id: rozas

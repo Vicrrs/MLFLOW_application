@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebooks/mlruns/678883718224392005/0881870fdaac43edbe26183c45b70530/artifacts
+deleted_time: 1710475527080
+end_time: 1710475225795
+entry_point_name: ''
+experiment_id: '678883718224392005'
+lifecycle_stage: deleted
+run_id: 0881870fdaac43edbe26183c45b70530
+run_name: funny-lark-404
+run_uuid: 0881870fdaac43edbe26183c45b70530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710475225712
+status: 4
+tags: []
+user_id: rozas
