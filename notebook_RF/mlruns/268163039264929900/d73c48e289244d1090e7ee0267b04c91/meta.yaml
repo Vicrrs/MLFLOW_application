@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_RF/mlruns/268163039264929900/d73c48e289244d1090e7ee0267b04c91/artifacts
+end_time: 1710624671325
+entry_point_name: ''
+experiment_id: '268163039264929900'
+lifecycle_stage: active
+run_id: d73c48e289244d1090e7ee0267b04c91
+run_name: capricious-moth-126
+run_uuid: d73c48e289244d1090e7ee0267b04c91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710624670671
+status: 4
+tags: []
+user_id: rozas
