@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_RF/mlruns/268163039264929900/bda9449c516e420b81b81cfcf90680b4/artifacts
+end_time: 1710625637687
+entry_point_name: ''
+experiment_id: '268163039264929900'
+lifecycle_stage: active
+run_id: bda9449c516e420b81b81cfcf90680b4
+run_name: wise-swan-936
+run_uuid: bda9449c516e420b81b81cfcf90680b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710625633570
+status: 3
+tags: []
+user_id: rozas

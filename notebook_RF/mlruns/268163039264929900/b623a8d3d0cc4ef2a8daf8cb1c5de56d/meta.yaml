@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_RF/mlruns/268163039264929900/b623a8d3d0cc4ef2a8daf8cb1c5de56d/artifacts
+end_time: 1710625629834
+entry_point_name: ''
+experiment_id: '268163039264929900'
+lifecycle_stage: active
+run_id: b623a8d3d0cc4ef2a8daf8cb1c5de56d
+run_name: angry-shoat-61
+run_uuid: b623a8d3d0cc4ef2a8daf8cb1c5de56d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710625626109
+status: 3
+tags: []
+user_id: rozas
