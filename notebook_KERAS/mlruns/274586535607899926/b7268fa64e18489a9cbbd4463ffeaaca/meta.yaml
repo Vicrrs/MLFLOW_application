@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/274586535607899926/b7268fa64e18489a9cbbd4463ffeaaca/artifacts
+end_time: 1710661015165
+entry_point_name: ''
+experiment_id: '274586535607899926'
+lifecycle_stage: active
+run_id: b7268fa64e18489a9cbbd4463ffeaaca
+run_name: debonair-auk-852
+run_uuid: b7268fa64e18489a9cbbd4463ffeaaca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710661009893
+status: 4
+tags: []
+user_id: rozas

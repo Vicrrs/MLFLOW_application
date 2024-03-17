@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/274586535607899926/fe668093b7fa4ad688bbf6fcccc59fa6/artifacts
+end_time: 1710660647165
+entry_point_name: ''
+experiment_id: '274586535607899926'
+lifecycle_stage: active
+run_id: fe668093b7fa4ad688bbf6fcccc59fa6
+run_name: luminous-finch-615
+run_uuid: fe668093b7fa4ad688bbf6fcccc59fa6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710660617406
+status: 3
+tags: []
+user_id: rozas

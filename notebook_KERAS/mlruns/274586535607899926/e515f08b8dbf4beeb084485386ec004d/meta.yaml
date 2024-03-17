@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/274586535607899926/e515f08b8dbf4beeb084485386ec004d/artifacts
+end_time: 1710659258390
+entry_point_name: ''
+experiment_id: '274586535607899926'
+lifecycle_stage: active
+run_id: e515f08b8dbf4beeb084485386ec004d
+run_name: inquisitive-wren-754
+run_uuid: e515f08b8dbf4beeb084485386ec004d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710659232648
+status: 3
+tags: []
+user_id: rozas

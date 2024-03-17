@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/274586535607899926/d00deb56e52049df9878ef156a1fa808/artifacts
+end_time: 1710660859458
+entry_point_name: ''
+experiment_id: '274586535607899926'
+lifecycle_stage: active
+run_id: d00deb56e52049df9878ef156a1fa808
+run_name: valuable-sow-167
+run_uuid: d00deb56e52049df9878ef156a1fa808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710660806402
+status: 3
+tags: []
+user_id: rozas

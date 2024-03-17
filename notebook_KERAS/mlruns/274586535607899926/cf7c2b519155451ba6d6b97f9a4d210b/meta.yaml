@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/274586535607899926/cf7c2b519155451ba6d6b97f9a4d210b/artifacts
+end_time: 1710660617381
+entry_point_name: ''
+experiment_id: '274586535607899926'
+lifecycle_stage: active
+run_id: cf7c2b519155451ba6d6b97f9a4d210b
+run_name: upset-elk-189
+run_uuid: cf7c2b519155451ba6d6b97f9a4d210b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710660543596
+status: 3
+tags: []
+user_id: rozas
