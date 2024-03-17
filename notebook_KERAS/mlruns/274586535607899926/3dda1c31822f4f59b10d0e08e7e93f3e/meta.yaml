@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/274586535607899926/3dda1c31822f4f59b10d0e08e7e93f3e/artifacts
+deleted_time: 1710658948244
+end_time: 1710658837081
+entry_point_name: ''
+experiment_id: '274586535607899926'
+lifecycle_stage: deleted
+run_id: 3dda1c31822f4f59b10d0e08e7e93f3e
+run_name: useful-foal-93
+run_uuid: 3dda1c31822f4f59b10d0e08e7e93f3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710658761802
+status: 4
+tags: []
+user_id: rozas
