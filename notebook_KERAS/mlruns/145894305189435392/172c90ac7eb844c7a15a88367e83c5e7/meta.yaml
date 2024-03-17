@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/172c90ac7eb844c7a15a88367e83c5e7/artifacts
+end_time: 1710663857394
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: 172c90ac7eb844c7a15a88367e83c5e7
+run_name: persistent-pig-513
+run_uuid: 172c90ac7eb844c7a15a88367e83c5e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710663786864
+status: 3
+tags: []
+user_id: rozas

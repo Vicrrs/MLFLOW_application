@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/0c5dca882d52411cbdb75fcd8e66d81e/artifacts
+end_time: 1710668828494
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: 0c5dca882d52411cbdb75fcd8e66d81e
+run_name: gifted-snail-885
+run_uuid: 0c5dca882d52411cbdb75fcd8e66d81e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710668704897
+status: 3
+tags: []
+user_id: rozas

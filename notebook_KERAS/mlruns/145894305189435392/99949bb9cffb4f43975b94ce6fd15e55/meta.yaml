@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/99949bb9cffb4f43975b94ce6fd15e55/artifacts
+end_time: 1710664969002
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: 99949bb9cffb4f43975b94ce6fd15e55
+run_name: auspicious-trout-65
+run_uuid: 99949bb9cffb4f43975b94ce6fd15e55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710664907489
+status: 3
+tags: []
+user_id: rozas

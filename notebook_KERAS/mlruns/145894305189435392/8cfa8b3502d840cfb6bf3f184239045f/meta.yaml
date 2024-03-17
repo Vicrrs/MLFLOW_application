@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/8cfa8b3502d840cfb6bf3f184239045f/artifacts
+end_time: 1710667736299
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: 8cfa8b3502d840cfb6bf3f184239045f
+run_name: skillful-shad-751
+run_uuid: 8cfa8b3502d840cfb6bf3f184239045f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710667699067
+status: 3
+tags: []
+user_id: rozas

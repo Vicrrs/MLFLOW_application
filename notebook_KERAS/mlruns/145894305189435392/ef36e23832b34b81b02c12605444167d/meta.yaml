@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/ef36e23832b34b81b02c12605444167d/artifacts
+end_time: 1710665150931
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: ef36e23832b34b81b02c12605444167d
+run_name: vaunted-elk-667
+run_uuid: ef36e23832b34b81b02c12605444167d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710665089669
+status: 3
+tags: []
+user_id: rozas

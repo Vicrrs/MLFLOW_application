@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/338798ef7fbd4ec4b7b95201fc7698ea/artifacts
+end_time: 1710668390147
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: 338798ef7fbd4ec4b7b95201fc7698ea
+run_name: bouncy-gnu-256
+run_uuid: 338798ef7fbd4ec4b7b95201fc7698ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710668350470
+status: 3
+tags: []
+user_id: rozas

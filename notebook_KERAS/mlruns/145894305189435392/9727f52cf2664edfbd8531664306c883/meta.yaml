@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/9727f52cf2664edfbd8531664306c883/artifacts
+end_time: 1710667910605
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: 9727f52cf2664edfbd8531664306c883
+run_name: bittersweet-cub-466
+run_uuid: 9727f52cf2664edfbd8531664306c883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710667803128
+status: 3
+tags: []
+user_id: rozas

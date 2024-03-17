@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/c3d311e9d60e48b4b583245b2b41d4c4/artifacts
+end_time: 1710669381111
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: c3d311e9d60e48b4b583245b2b41d4c4
+run_name: sedate-doe-466
+run_uuid: c3d311e9d60e48b4b583245b2b41d4c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710669244196
+status: 3
+tags: []
+user_id: rozas

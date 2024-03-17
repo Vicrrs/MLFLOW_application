@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/89ea466e56fb48379851d8ac0535eb63/artifacts
+end_time: 1710663570747
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: 89ea466e56fb48379851d8ac0535eb63
+run_name: traveling-pug-770
+run_uuid: 89ea466e56fb48379851d8ac0535eb63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710663503696
+status: 3
+tags: []
+user_id: rozas

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/7877ff42bd7d4cd39e1872cf2f50b8e3/artifacts
+end_time: 1710666416374
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: 7877ff42bd7d4cd39e1872cf2f50b8e3
+run_name: enchanting-perch-953
+run_uuid: 7877ff42bd7d4cd39e1872cf2f50b8e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710666376215
+status: 3
+tags: []
+user_id: rozas

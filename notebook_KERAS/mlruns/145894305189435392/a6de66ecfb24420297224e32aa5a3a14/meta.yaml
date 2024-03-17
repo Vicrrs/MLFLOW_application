@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/a6de66ecfb24420297224e32aa5a3a14/artifacts
+end_time: 1710664385337
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: a6de66ecfb24420297224e32aa5a3a14
+run_name: worried-pig-21
+run_uuid: a6de66ecfb24420297224e32aa5a3a14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710664351339
+status: 3
+tags: []
+user_id: rozas

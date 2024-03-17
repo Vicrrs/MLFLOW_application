@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/c2aa6da512ae44e89ffe284e127bce52/artifacts
+end_time: 1710663428032
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: c2aa6da512ae44e89ffe284e127bce52
+run_name: serious-carp-202
+run_uuid: c2aa6da512ae44e89ffe284e127bce52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710663360916
+status: 3
+tags: []
+user_id: rozas

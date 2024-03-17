@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/b2a4c673b7264c0f99a7e8593f1d5f7e/artifacts
+end_time: 1710666836647
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: b2a4c673b7264c0f99a7e8593f1d5f7e
+run_name: handsome-slug-677
+run_uuid: b2a4c673b7264c0f99a7e8593f1d5f7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710666794843
+status: 3
+tags: []
+user_id: rozas

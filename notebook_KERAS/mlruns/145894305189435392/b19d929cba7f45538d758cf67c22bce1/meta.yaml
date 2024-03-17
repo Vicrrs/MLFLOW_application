@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/b19d929cba7f45538d758cf67c22bce1/artifacts
+end_time: 1710666050109
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: b19d929cba7f45538d758cf67c22bce1
+run_name: likeable-kite-91
+run_uuid: b19d929cba7f45538d758cf67c22bce1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710665977146
+status: 3
+tags: []
+user_id: rozas

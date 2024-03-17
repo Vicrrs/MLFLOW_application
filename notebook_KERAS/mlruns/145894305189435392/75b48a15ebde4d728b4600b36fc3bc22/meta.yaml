@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/75b48a15ebde4d728b4600b36fc3bc22/artifacts
+end_time: 1710664788838
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: 75b48a15ebde4d728b4600b36fc3bc22
+run_name: funny-eel-10
+run_uuid: 75b48a15ebde4d728b4600b36fc3bc22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710664729761
+status: 3
+tags: []
+user_id: rozas

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/12fc22cc8aa14be5a6096dfff0255cfe/artifacts
+end_time: 1710665241847
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: 12fc22cc8aa14be5a6096dfff0255cfe
+run_name: intrigued-midge-292
+run_uuid: 12fc22cc8aa14be5a6096dfff0255cfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710665150961
+status: 3
+tags: []
+user_id: rozas

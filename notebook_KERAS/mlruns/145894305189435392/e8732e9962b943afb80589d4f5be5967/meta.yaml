@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/e8732e9962b943afb80589d4f5be5967/artifacts
+end_time: 1710668875121
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: e8732e9962b943afb80589d4f5be5967
+run_name: rumbling-chimp-264
+run_uuid: e8732e9962b943afb80589d4f5be5967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710668828513
+status: 3
+tags: []
+user_id: rozas

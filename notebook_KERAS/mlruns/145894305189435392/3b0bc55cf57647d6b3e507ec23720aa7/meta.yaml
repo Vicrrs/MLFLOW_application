@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/3b0bc55cf57647d6b3e507ec23720aa7/artifacts
+end_time: 1710667699046
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: 3b0bc55cf57647d6b3e507ec23720aa7
+run_name: learned-pug-845
+run_uuid: 3b0bc55cf57647d6b3e507ec23720aa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710667590760
+status: 3
+tags: []
+user_id: rozas

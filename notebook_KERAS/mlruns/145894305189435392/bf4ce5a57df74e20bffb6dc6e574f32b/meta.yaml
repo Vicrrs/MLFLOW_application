@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/bf4ce5a57df74e20bffb6dc6e574f32b/artifacts
+end_time: 1710663645584
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: bf4ce5a57df74e20bffb6dc6e574f32b
+run_name: intrigued-shark-492
+run_uuid: bf4ce5a57df74e20bffb6dc6e574f32b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710663598442
+status: 3
+tags: []
+user_id: rozas

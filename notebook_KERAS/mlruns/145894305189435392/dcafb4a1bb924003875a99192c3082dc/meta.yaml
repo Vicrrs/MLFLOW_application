@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/dcafb4a1bb924003875a99192c3082dc/artifacts
+end_time: 1710668350451
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: dcafb4a1bb924003875a99192c3082dc
+run_name: luxuriant-pig-349
+run_uuid: dcafb4a1bb924003875a99192c3082dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710668244827
+status: 3
+tags: []
+user_id: rozas

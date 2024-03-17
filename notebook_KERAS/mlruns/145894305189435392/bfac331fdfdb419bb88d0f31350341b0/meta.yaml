@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/bfac331fdfdb419bb88d0f31350341b0/artifacts
+end_time: 1710666794825
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: bfac331fdfdb419bb88d0f31350341b0
+run_name: treasured-newt-51
+run_uuid: bfac331fdfdb419bb88d0f31350341b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710666693788
+status: 3
+tags: []
+user_id: rozas

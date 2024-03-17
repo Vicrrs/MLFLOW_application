@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/6d09a7c9138d4f09b8f689739e3a4a11/artifacts
+end_time: 1710667242245
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: 6d09a7c9138d4f09b8f689739e3a4a11
+run_name: gregarious-flea-116
+run_uuid: 6d09a7c9138d4f09b8f689739e3a4a11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710667133913
+status: 3
+tags: []
+user_id: rozas

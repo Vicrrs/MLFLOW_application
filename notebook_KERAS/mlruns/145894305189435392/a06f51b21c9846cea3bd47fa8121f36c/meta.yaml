@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/a06f51b21c9846cea3bd47fa8121f36c/artifacts
+end_time: 1710670534896
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: a06f51b21c9846cea3bd47fa8121f36c
+run_name: nebulous-mouse-167
+run_uuid: a06f51b21c9846cea3bd47fa8121f36c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710670387427
+status: 3
+tags: []
+user_id: rozas

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/c75ea109421d45738c3b03cfa4aa35c3/artifacts
+end_time: 1710664729743
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: c75ea109421d45738c3b03cfa4aa35c3
+run_name: carefree-chimp-935
+run_uuid: c75ea109421d45738c3b03cfa4aa35c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710664696924
+status: 3
+tags: []
+user_id: rozas

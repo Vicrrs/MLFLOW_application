@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/b8d98bf5a50c46119ed499c3025fdbcf/artifacts
+end_time: 1710663786843
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: b8d98bf5a50c46119ed499c3025fdbcf
+run_name: incongruous-moth-308
+run_uuid: b8d98bf5a50c46119ed499c3025fdbcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710663740658
+status: 3
+tags: []
+user_id: rozas

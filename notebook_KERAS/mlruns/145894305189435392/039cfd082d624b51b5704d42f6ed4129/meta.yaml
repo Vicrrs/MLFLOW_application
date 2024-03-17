@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/039cfd082d624b51b5704d42f6ed4129/artifacts
+end_time: 1710668966625
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: 039cfd082d624b51b5704d42f6ed4129
+run_name: skittish-cow-3
+run_uuid: 039cfd082d624b51b5704d42f6ed4129
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710668875139
+status: 3
+tags: []
+user_id: rozas

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/a4ec8431cf934761a9633127bac7a148/artifacts
+end_time: 1710663598414
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: a4ec8431cf934761a9633127bac7a148
+run_name: intrigued-goat-472
+run_uuid: a4ec8431cf934761a9633127bac7a148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710663570770
+status: 3
+tags: []
+user_id: rozas

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/17becd80fa254dc0909ff85fc3aa03f0/artifacts
+end_time: 1710666376197
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: 17becd80fa254dc0909ff85fc3aa03f0
+run_name: crawling-snail-590
+run_uuid: 17becd80fa254dc0909ff85fc3aa03f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710666270495
+status: 3
+tags: []
+user_id: rozas

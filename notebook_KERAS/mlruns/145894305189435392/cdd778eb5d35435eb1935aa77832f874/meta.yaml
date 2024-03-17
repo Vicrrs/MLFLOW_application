@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/cdd778eb5d35435eb1935aa77832f874/artifacts
+end_time: 1710669154156
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: cdd778eb5d35435eb1935aa77832f874
+run_name: bright-seal-308
+run_uuid: cdd778eb5d35435eb1935aa77832f874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710669102576
+status: 3
+tags: []
+user_id: rozas

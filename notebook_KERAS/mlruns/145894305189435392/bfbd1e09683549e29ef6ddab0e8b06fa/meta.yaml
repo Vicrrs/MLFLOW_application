@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/bfbd1e09683549e29ef6ddab0e8b06fa/artifacts
+end_time: 1710669646083
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: bfbd1e09683549e29ef6ddab0e8b06fa
+run_name: bold-whale-944
+run_uuid: bfbd1e09683549e29ef6ddab0e8b06fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710669516738
+status: 3
+tags: []
+user_id: rozas

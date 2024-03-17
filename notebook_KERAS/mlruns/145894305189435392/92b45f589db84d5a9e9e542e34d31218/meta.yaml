@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/92b45f589db84d5a9e9e542e34d31218/artifacts
+end_time: 1710668128927
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: 92b45f589db84d5a9e9e542e34d31218
+run_name: gifted-stork-195
+run_uuid: 92b45f589db84d5a9e9e542e34d31218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710668022322
+status: 3
+tags: []
+user_id: rozas

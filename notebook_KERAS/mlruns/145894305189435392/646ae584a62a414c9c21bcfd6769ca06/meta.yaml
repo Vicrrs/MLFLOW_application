@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/646ae584a62a414c9c21bcfd6769ca06/artifacts
+end_time: 1710665513153
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: 646ae584a62a414c9c21bcfd6769ca06
+run_name: suave-eel-219
+run_uuid: 646ae584a62a414c9c21bcfd6769ca06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710665456444
+status: 3
+tags: []
+user_id: rozas

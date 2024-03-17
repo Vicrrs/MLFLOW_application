@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/d0a5a9af606c429fbc8db85856fa91ab/artifacts
+end_time: 1710664270719
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: d0a5a9af606c429fbc8db85856fa91ab
+run_name: bright-goat-617
+run_uuid: d0a5a9af606c429fbc8db85856fa91ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710664212605
+status: 3
+tags: []
+user_id: rozas

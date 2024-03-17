@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rozas/Documents/Projetos_GITHUB/MLFLOW_application/notebook_KERAS/mlruns/145894305189435392/df0070fa10b845b3b785c236d4affc09/artifacts
+end_time: 1710669936265
+entry_point_name: ''
+experiment_id: '145894305189435392'
+lifecycle_stage: active
+run_id: df0070fa10b845b3b785c236d4affc09
+run_name: mysterious-ape-189
+run_uuid: df0070fa10b845b3b785c236d4affc09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710669800404
+status: 3
+tags: []
+user_id: rozas
